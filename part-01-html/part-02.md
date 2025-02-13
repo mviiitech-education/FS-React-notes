@@ -1,4 +1,4 @@
-### Interactive Elements
+## Interactive Elements
 
 - `<details>`: Represents a disclosure widget from which the user can obtain additional information.
 - `<summary>`: Summary, caption, or legend for a `<details>`element.

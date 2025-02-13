@@ -91,7 +91,6 @@ This approach ensures efficient updates and better performance in your applicati
 
 ```html
 <div class="container"></div>
-`
 ```    
 
 **JSX example:**
