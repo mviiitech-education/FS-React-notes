@@ -17,6 +17,10 @@
    - Setting up state with `useState`
    - Initial state
    - Updating state
+1. **JSX**
+   - Introduction to JSX
+   - Embedding expressions in JSX
+   - JSX in functional and class components
 1. **Event Handling**
    - Handling events like `onClick`, `onChange`
    - Synthetic events
@@ -49,6 +53,11 @@
 
 ## 🏷️ Advanced
 
+1. **State management tool**
+   - react-redux ( difficult )
+   - redux-toolkit ( easy )
+   - mobx ( optional )
+   - zustand ( optional )
 1. **Hooks**
    - Custom Hooks
    - Optimization
@@ -60,3 +69,13 @@
      - React Redux Toolkit
    - Writing Service File (API Connection Logic)
    - Lazy Loading
+1. **Component Communication**
+   - Parent to child communication
+   - Child to parent communication (using callback functions)
+   - Sibling communication (using shared state or context)
+1. **Forms and Input Handling**
+   - Controlled vs. uncontrolled components
+   - Handling form submission
+1. **Testing in React**
+   - Writing unit tests with Jest and React Testing Library
+   - Integration and end-to-end testing with tools like Cypress

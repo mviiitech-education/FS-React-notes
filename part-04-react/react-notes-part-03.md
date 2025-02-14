@@ -16,7 +16,7 @@ If you face any issue while running your project. check below points.
 - npm ( **N**ode **P**ackage **M**anager ):
   - Use to manage, install and remove packages for Node JS.
 
-## TO check if node js is installed
+## To check if node js is installed
 
 1. open command prompt
 2. check below commands are working
@@ -91,7 +91,7 @@ This approach ensures efficient updates and better performance in your applicati
 
 ```html
 <div class="container"></div>
-```    
+```
 
 **JSX example:**
 
