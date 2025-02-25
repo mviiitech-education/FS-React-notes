@@ -25,7 +25,7 @@ To start learning React, it's important to have a solid understanding of basic H
 - `<head>`: Contains metadata, links to CSS, and other resources.
 - `<body>`: Contains the content of the HTML document.
 
-### Content Sectioning
+### Content Sectioning | semantic tags
 
 - `<header>`: Represents introductory content, typically a group of introductory or navigational aids.
 - `<nav>`: Contains navigation links.
